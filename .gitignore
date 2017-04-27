@@ -52,3 +52,6 @@ hdk/common/verif/models/.vivado_version
 vivado_pid*.str
 vivado*.jou
 vivado*.log
+
+# Ignore Pycharm files
+.idea
