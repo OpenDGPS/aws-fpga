@@ -1,4 +1,4 @@
-#AWS FPGA - Frequently Asked Questions
+# AWS FPGA - Frequently Asked Questions
 
 [General F1 FAQs](#general) 
 
