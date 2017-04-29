@@ -87,6 +87,8 @@ By following the example CLs, a developer will learn how to interface to the AWS
 
 <a name="buildingafiprereq"></a>
 ### Prerequisites
+* AWS Account and Security Creditials that enable user(s) to access EC2 and S3.  [AWS Security Credentials documentation](http://docs.aws.amazon.com/general/latest/gr/aws-security-credentials.html)
+
 * AWS FPGA HDK and SDK run in Linux environment only.
 
 * The build stage uses Xilinx's Vivado tool set. In case you build on-premises you should have an installed Vivado that has the correct license.  Please check for [supported versions of Vivado](./hdk/supported_vivado_versions.txt). [Release Notes](./RELEASE_NOTES.md) may contain additional information.
